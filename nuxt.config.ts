@@ -7,7 +7,7 @@ export default defineNuxtConfig({
         { rel: "icon", href: "./assets/favicon.ico" },
         { rel: "stylesheet", href: "./assets/global.css" },
       ],
-      title: "Nuxt 3 - Typeorm",
+      title: "Spinasyik",
       meta: [
         {
           name: "description",
