@@ -1,6 +1,6 @@
 <template>
   <div>
-    <a class="flex justify-center my-auto h-screen" href="selalubukaterus.com"><img src="./assets/gambar2.png"></a>
+    <a class="flex justify-center my-auto h-screen" href="https://selalubukaterus.com/"><img src="./assets/gambar2.png"></a>
   </div>
 </template>
 
