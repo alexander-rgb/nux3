@@ -1,7 +1,7 @@
 <template>
   <div>
-    <a class="flex justify-center my-auto h-screen" href="https://selalubukaterus.com/"><img src="./assets/gambar2.png"></a>
-  </div>
+      <a href="https://selalubukaterus.com"><img src="./gambar.jpg"></a>
+  <div>
 </template>
 
 <script lang="ts">
